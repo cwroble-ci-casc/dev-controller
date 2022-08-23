@@ -1,0 +1,4 @@
+variables:
+- team: cwroble-ci-casc
+- admin-user: cwroble-admin
+- manager-user: cwroble
